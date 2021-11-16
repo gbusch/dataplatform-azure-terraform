@@ -1,0 +1,13 @@
+{
+	"name": "AzureDatabricks",
+	"properties": {
+		"annotations": [],
+		"type": "AzureDatabricks",
+		"typeProperties": {
+			"domain": "https://adb-1854078201193564.4.azuredatabricks.net",
+			"authentication": "MSI",
+			"workspaceResourceId": "/subscriptions/e78245de-2236-4196-b490-ea75f56b18cc/resourceGroups/dp-gb-dev/providers/Microsoft.Databricks/workspaces/dp-gb-databricks-dev",
+			"existingClusterId": "1116-165549-9wyzm2xu"
+		}
+	}
+}
